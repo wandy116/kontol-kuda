@@ -40,7 +40,6 @@ if(apikey != 'MASUKAN_NAMA_APIKEY') return res.json(loghandler.invalidKey)
 
 
 # Special Thanks
-- Zhirrr
-- ZefianAlfian (Makasih template nya)
-- sProDev (Makasih Kodeposnya)
-- devnazir (Credits : FilmApik, LK21)
+- WandyGans
+- Nevil Chan
+- Dan semua kawan kawan
